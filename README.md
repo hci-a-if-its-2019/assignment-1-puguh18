@@ -1,18 +1,103 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+  Papua.go.id is a website owned by the goverment from Papua. Like any other website from goverment around Indonesia, it shows what most likely what your’re supposed to know from that province. The content shows variety information from news until several recommended location you can find in the province.
+  
+  ![](Images/web.png)
+  
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+    1. Try to find website from papua goverment
+    2. Try to find news about health
+    3. Try to find news with "Pariwisata(tourism) category"
+    4. Try to find the governor's profile
+    5. Try to find the cafes in Papua
+    
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+    User is from physic engineering department, he's 21 yrs old now. Mostly using internet to do homework, downloading game,and streaming.
+    
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```text
+    1.	Me	: Seberapa sering sih kamu mengunjungi website pemerintah?
+    2.	User	: Gak terlalu sering sih, website pemerintah tu bukan hal yang terlalu urgent sih, jadi cuma pas dibutuhkan saja.
+    3.	Me 	: Website pemerintah itu menurut kamu bagaimana?
+    4.	User	:  Menurut aku sih monoton, kurang kayak ada inovasi untuk terutama interfacenya, karena untuk zaman sekarang web web itu kan interfacenya lebih menarik sih.
+    5.	Me	: Kamu pernah ke Papua gk?
+    6.	User	: Papua...? Belum pernah
+    7.	Me	: Pernah eksplor tentang Papua gk di internet?
+    8.	User	: Eksplor tentang Papua pernah sih, kyk tempat wisata. Dan semacam culture-nya saja sih kayak budaya – budaya begitu.
+    9.	Me	: Sekarang coba kamu cari website milik Pemerintah Papua
+    10.	User	: Cari di Google kan?
+    11.	Me	: Ya....boleh
+    12.	User	: ( User mulai mencari website dengan search bar pada browser)
+    13.	User	: ( User memilih salah satu rekomendasi search bar dan ter-direct ke halaman wiki)
+    14.	User	: Eh, kok wiki. Eh bentar – bentar, kayaknya salah deh
+    15.	User	: ( User mulai mencari lagi dengan menggunakan address bar)
+    16.	User	: Oh ini ya?
+    17.	Me	: Iya
+    18.	Me	: Menurut kamu bagaimana dengan tampilannya?
+    19.	User	: Tampilannya? Hmm.... ya biasa sih. Maksudku kayak website website biasa sih.
+    20.	Me	: Hmmm...oke  
+    21.	Me	: Coba kamu cari berita tentang kesehatan
+    22.	User	: Di websitenya ini?
+    23.	Me	: Iya, di websitenya
+    24.	User	: ( User menggunakan fitur search bar yang terdapat pada website dan mengetik kata kesehatan)
+    25.	User	: Kesehatannya kesehatan apa dulu?
+    26.	Me	: Ya, pokoknya tentang kesehatan, apa saja
+    27.	User	: ( User mulai scroll down dan  scroll up halaman )
+    28.	Me	: Gak muncul ya?
+    29.	User	: Iya, gak muncul, gak tahu
+    30.	User	: Apa rata2 begitu ya website pemerintah?
+    31.	Me	: Hahaha
+    32.	Me	: Coba sekarang kamu cari berita dengan kategori pariwisata
+    33.	User	: Di website ini juga?
+    34.	Me	: Iya
+    35.	User	: ( User mulai mencari - cari di keseluruhan home page)
+    36.	User	: Kok gak ada?
+    37.	Me	: Mungkin kamu bisa coba dengan fitur selain yang kamu coba tadi
+    38.	User	: ( User mulai mencari pada navigation bar)
+    39.	User	: Oh, ini gak sih?
+    40.	User	: ( User mencari cari lagi,  lalu akhirnnya menggunakan fitur search bar.)
+    41.	User	: (Tampaknya user lupa jika search bar tak berfungsi)
+    42.	User	: ( Akhirnya user ,menggunakan fitur side bar (ada menu dropdown muncul))
+    43.	User	: Oh,.. ini. Ini ya... Oh berarti yang di depan Cuma headline berita dong
+    44.	Me	: Sekarang aku mau kamu coba cari profil gubernur papua
+    45.	User	: Ini gak sih.
+    46.	Me	: Bagaimana menurutmu?
+    47.	User	: Ini lho, taskbarnya ganggu banget buat ngeliatnya
+    48.	Me	: Coba sekarang kamu cari ppid nya mereka
+    49.	User	: ( User memencet tombol ppid)
+    50.	User	: Lho, gak ada. Aneh gak sih.
+    51.	Me	: Oke lanjut, sekarang aku mau kamu cari kafe yang ada di papua
+    52.	User	: Kafe? Memang ada kafe?
+    53.	Me	: Coba saja 
+    54.	User	: (Memakai search bar lagi)
+    55.	User	: Gak ada gak sih?
+    56.	User	: (Scroll down and up lagi)
+    57.	Me	: ( Memberi sedikit clue)
+    58.	User 	: Oalah ( Kembali ke beranda), ini tha. ( Menu tentang kafe harus scroll down ke bawah lagi)
+    59.	User	: ( Setelah klik menu kafe) Lho, gak ada
+    60.	Me	: Sekarang coba kamu cari kafenya di mesin pencari google
+    61.	User	: ( User mencari di google)
+    62.	User	: Oh, banyak ya ternyata
+``` 
+    
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+
+
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+Do 
+  1. 
+  2. 
+  3.
+  
+Dont
+  1. 
+  2. 
+  3.
