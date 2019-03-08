@@ -93,7 +93,7 @@ The full version below
 ![Flow Model and Annotation]![](Images/Flow.png)
 
 ### Cultural Model
-![Cultural Model and Annotation]![](Images/cultural.png)
+![Cultural Model and Annotation]![](Images/Cultural.png)
 
 
 ## Do's and Don't's
