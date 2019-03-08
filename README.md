@@ -2,7 +2,7 @@
 ## Device/ App/ Website Description
   Papua.go.id is a website owned by the goverment from Papua. Like any other website from goverment around Indonesia, it shows what most likely what your’re supposed to know from that province. The content shows variety information from news until several recommended location you can find in the province.
   
-  ![](Images/web.png)
+  ![](Images/Home.png)
   
 ## Instruction Script
     1. Try to find website from papua goverment
@@ -82,22 +82,27 @@
     
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](Images/Search.png)
+![](Images/Headline.png)
+The full version below
+![](Images/scroll.jpeg)
+![](Images/profile.png)
+![](Images/Cafe.png)
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation]![](Images/Flow.png)
 
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation]![](Images/cultural.png)
 
 
 ## Do's and Don't's
 Do 
-  1. 
-  2. 
-  3.
+  1. Separate background section with menu bar
+  2. Choose wise color so that the menu still visible (Don't use same as the background)
+ 
   
-Dont
-  1. 
-  2. 
-  3.
+Dont:
+  1. Place reccomendation menu way too bellow the page
+  2. Use bad color
+
