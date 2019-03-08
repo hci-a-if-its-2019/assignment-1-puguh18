@@ -85,8 +85,8 @@
 ![Artifact Model and Annotation](Images/Search.png)
 ![](Images/Headline.png)
 The full version below
-![](Images/scroll.jpeg)
-![](Images/profile.png)
+![](Images/Scroll.jpeg)
+![](Images/Profile.png)
 ![](Images/Cafe.png)
 
 ### Flow Model
