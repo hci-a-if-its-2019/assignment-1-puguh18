@@ -106,3 +106,11 @@ Dont:
   1. Place reccomendation menu way too bellow the page
   2. Use bad color
 
+
+# Remarks
+> * Thanks for finishing this assignment completely. Overall, you have done a great job!
+> * The term `bad color` in Don't's is inappropriate, because actually there is no good or bad color, but wrong used in context or improper color when combined with other colors.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 1                | 4               | 87                 | 60         | 81,6  |
